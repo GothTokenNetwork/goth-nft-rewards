@@ -1,0 +1,9 @@
+{
+	"name": "Rare Ingredient Reward Voucher",
+	"description": "This scroll hereby grants the owner one free Rare ingredient from The Twilight Market when it launches. This is a reward NFT linked to the GOTH Token Network.",
+	"image": "https://ipfs.io/ipfs/QmddRVA8xTQEJj1rbGtzShiVgqPZvyLZe8jdbsVfEpQWjp?filename=Rare_Ingredient_Voucher_Rare_gothv2.png",
+	"properties": {
+		"Reward": "Rare Ingredient",
+        "Amount": "1"
+	}
+}

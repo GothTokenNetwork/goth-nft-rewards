@@ -1,0 +1,9 @@
+{
+	"name": "Legendary Ingredient Reward Voucher",
+	"description": "This scroll hereby grants the owner one free Legendary ingredient from The Twilight Market when it launches. This is a reward NFT linked to the GOTH Token Network.",
+	"image": "https://ipfs.io/ipfs/QmeWX6TZE9vfGauHHuM2ddTF6AvYQGqYwSECv4FHCGLapi?filename=Rare_Ingredient_Voucher_Legendary_gothv2.png",
+	"properties": {
+		"Reward": "Legendary Ingredient",
+        "Amount": "1"
+	}
+}

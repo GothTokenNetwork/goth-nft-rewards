@@ -1,0 +1,9 @@
+{
+	"name": "Common Ingredient Reward Voucher",
+	"description": "This scroll hereby grants the owner one free Common ingredient from The Twilight Market when it launches. This is a reward NFT linked to the GOTH Token Network.",
+	"image": "https://ipfs.io/ipfs/QmWTMT9xUpszwnrUWFrZiz6iQAPSf11ACivsXSuYM6wa6s?filename=Rare_Ingredient_Voucher_Common_gothv2.png",
+	"properties": {
+		"Reward": "Common Ingredient",
+        "Amount": "1"
+	}
+}
